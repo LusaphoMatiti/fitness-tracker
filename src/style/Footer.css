@@ -1,12 +1,11 @@
 .footer {
-  background: var(--clr-grey-1);
+  background: #34495e;
   text-align: center;
   padding-left: 2rem;
   padding-right: 2rem;
   padding: 2rem;
   margin-top: 2rem;
-  background-color: black;
-  color: yellow;
+  color: whitesmoke;
 }
 
 .footer-links {
@@ -17,7 +16,7 @@
 }
 
 .footer-link {
-  color: yellow;
+  color: whitesmoke;
   text-transform: capitalize;
   font-size: 1rem;
   margin-right: 1rem;
