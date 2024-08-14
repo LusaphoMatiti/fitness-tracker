@@ -34,6 +34,18 @@ h1 {
   }
 }
 
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 1.6rem; /* Adjust size as needed */
+  height: auto;
+  margin-left: 8px; /* Small gap between image and title */
+  color: whitesmoke;
+}
+
 .navbar {
   position: fixed;
   top: 0;

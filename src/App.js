@@ -42,7 +42,11 @@ function App() {
       <nav className="navbar">
         <div className="nav-center">
           <div className="nav-header">
-            <h1>Fitness Tracker</h1>
+            <div className="title-container">
+              <h1>Fitness Tracker</h1>
+              <img src="dumbbell.png" alt="dumbbell" className="logo" />
+            </div>
+
             <button
               type="button"
               className="nav-toggle"
